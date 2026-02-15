@@ -56,6 +56,7 @@ The main objectives of this dashboard are:
 
 •	To provide a high-level HR performance snapshot for decision-makers
 
+
 Key Performance Indicators (KPIs)
 
 The dashboard highlights the following KPIs at the top:
@@ -87,6 +88,7 @@ o	Female: 588
 
 
 2. Attrition by Education Level
+ 
 Visualizes attrition count based on education:
 
 •	Bachelor’s Degree: 99
@@ -101,7 +103,9 @@ Visualizes attrition count based on education:
 
 Insight: Employees with Bachelor’s degrees show the highest attrition.
 
+
 3. Attrition by Job Role
+ 
 Displays attrition across different job roles:
 
 •	Laboratory Technician
@@ -120,7 +124,9 @@ Displays attrition across different job roles:
 
 Insight: Certain operational and sales roles have higher attrition rates.
 
+
 4. Department-Wise Attrition
+ 
 Pie chart showing attrition distribution:
 
 •	R&D: ~56%
@@ -133,6 +139,7 @@ Insight: R&D and Sales departments contribute most to attrition.
 
 
 5. Attrition by Age Group
+ 
 Bar chart categorizing attrition by age:
 
 •	25–34: 112
@@ -149,6 +156,7 @@ Insight: Employees aged 25–34 are the most likely to leave.
 
 
 6. Attrition by Marital Status
+
 Line chart showing attrition trend:
 
 •	Single employees have the highest attrition
@@ -161,9 +169,13 @@ Insight: Marital status has a noticeable impact on attrition.
 
 
 7. Filters & Interactivity
+
 The dashboard includes slicers for:
+
 •	Education Field
+
 •	Department
+
 These filters allow users to dynamically explore attrition patterns for specific groups.
 
 
@@ -191,6 +203,7 @@ o	Slicers
 
 
 Business Impact
+
 This dashboard helps organizations:
 
 •	Identify high attrition risk groups
@@ -199,8 +212,8 @@ This dashboard helps organizations:
 
 •	Optimize hiring and workforce planning
 
-•	Enhance HR policy decisions using data insights
-Future Enhancements
+•	Enhance HR policy decisions using data insights Future Enhancements
+
 
 •	Add predictive attrition modeling
 
