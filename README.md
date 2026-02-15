@@ -8,20 +8,34 @@ The dashboard enables HR teams and management to make data-driven decisions by i
 This project uses HR data from an Excel dataset and presents insights through a visually intuitive dashboard.
 
 Dataset Description
+
 •	Source: HR data (Excel file)
+
 •	File Name: hr data.xlsx
+
 •	Data Type: Structured employee-level HR data
 Key Data Fields
+
 •	Employee ID
+
 •	Age
+
 •	Gender
+
 •	Department
+
 •	Job Role
+
 •	Education Level
+
 •	Education Field
+
 •	Marital Status
+
 •	Job Satisfaction Rating
+
 •	Attrition Status
+
 •	Total Employees
 
 
